@@ -311,7 +311,7 @@ nslookup vscv.click
 ```
 <img width="357" height="130" alt="image" src="https://github.com/user-attachments/assets/c835c17b-3a8b-420c-b032-481aa3828f70" />
 
-### 13.2 Truy cập website
+### 11.2 Truy cập website
 Mở trình duyệt:
 - `https://vscv.click`
 <img width="1907" height="1030" alt="image" src="https://github.com/user-attachments/assets/6bee344f-8ca4-4ab6-b864-bb0509d6510f" />
