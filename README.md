@@ -140,7 +140,7 @@ Cần:
 Chạy trên máy reverse proxy `13.251.110.182`.
 
 ### 7.1 Tạo file credentials (tạm thời)
-> Thay email và key của bạn vào đây.
+> Thay email và key của vào đây.
 
 ```bash
 cat << EOF > /tmp/cloudflare.ini
